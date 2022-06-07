@@ -1,0 +1,34 @@
+/* 
+    Template Name: MyFolio
+    Author: Md Yeasin
+    Template Designer: Creative IT
+    Author URI: 
+    Version: 1.0.0
+
+    Table of Content
+    ======================================
+    1) Navbar
+    2) Banner
+    3) About
+    4) Services
+    5) My Work
+    6) Contact
+    7) Footer
+*/
+
+/* Bootstrap Reset CSS Start */
+h1, h2, h3, h4, h5, h6,
+p,
+small,
+ul,
+ol{
+    margin: 0;
+    padding: 0;
+}
+ul, ol{
+    list-style-type: none;
+}
+a, a:hover{
+    text-decoration: none;
+}
+/* //Bootstrap Reset CSS End */
